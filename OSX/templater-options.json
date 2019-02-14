@@ -31,6 +31,7 @@
                                    , "suppress_ae_dialogs"     : true
                                    , "silence_logging"         : false
                                    , "purge_caches"            : false
+                                   , "empty_is_faulty"         : true
                                    , "remote_json"             : {
                                                                       "username" : ""
                                                                     , "password" : ""
